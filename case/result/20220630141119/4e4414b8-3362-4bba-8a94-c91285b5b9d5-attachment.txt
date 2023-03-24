@@ -1,0 +1,2 @@
+INFO     logger:Big_Data_Travel_Card.py:67 本次的问题为：False
+INFO     logger:Big_Data_Travel_Card.py:68 回答的答案为：False

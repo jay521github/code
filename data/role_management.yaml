@@ -1,0 +1,5 @@
+-
+  title: 角色管理
+  add_role: //*[@id="root"]/div/section/section/main/div/section/main/div[2]/div[1]/div[2]/div/button
+  role_status: //*[@id="advanced_search"]/div[1]/div/div[3]/div/div[2]/div/div/div/div/span[2]
+  expected_result: //*[@id="root"]/div/section/section/main/div/section/main/div[2]/div[2]/div/div/div/div/div/div[2]/table/tbody/tr[2]/td[2]/span

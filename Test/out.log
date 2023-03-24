@@ -1,0 +1,18 @@
+2023-01-17 14:18:31.460 | ERROR    | __main__:nested:43 - What?!
+Traceback (most recent call last):
+
+  File "C:/Users/jay52/PycharmProjects/6noble/Test/222.py", line 45, in <module>
+    nested(0)
+    └ <function nested at 0x0000014FD60005E0>
+
+> File "C:/Users/jay52/PycharmProjects/6noble/Test/222.py", line 41, in nested
+    func(5, c)
+    │       └ 0
+    └ <function func at 0x0000014FD5A261F0>
+
+  File "C:/Users/jay52/PycharmProjects/6noble/Test/222.py", line 37, in func
+    return a / b
+           │   └ 0
+           └ 5
+
+ZeroDivisionError: division by zero

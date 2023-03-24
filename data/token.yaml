@@ -1,0 +1,7 @@
+-
+  path: /api/6nobleapi/ucenter/login
+  url: https://hapi.6noblexc.com
+  data:
+    account: 15029058
+    password: e10adc3949ba59abbe56e057f20f883e
+    publicKey: pvj9bTwwaY4YdPiwRBH5RE25o9ZM8BHG

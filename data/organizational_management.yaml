@@ -1,0 +1,9 @@
+-
+  new_agency: //*[@id="root"]/div/section/section/main/div/section/main/div[2]/div[1]/div[2]/div/button[2]
+  agency_title: 测试机构No.${random.int(9999)}
+  add_user: /html/body/div[1]/div/section/section/main/div/div[2]/form/div[1]/div/div[4]/div/div[2]/div[1]/div/div/div/span[1]/input
+  Contact: 孙先生
+  phone: 13911106883
+  submit: //*[@id="advanced_search"]/div[2]/div/div/button[1]/span
+  expected_result: //*[@id="root"]/div/section/section/main/div/section/main/div[2]/div[2]/div/div/div/div/div/div[2]/table/tbody/tr[2]/td[3]/span
+  title: 机构管理

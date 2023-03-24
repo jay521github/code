@@ -1,0 +1,5 @@
+INFO     logger:6noble.py:37 已经关闭了设置新密码的弹窗
+INFO     logger:6noble.py:38 点击量表
+INFO     logger:6noble.py:42 点击开始答题
+INFO     logger:6noble.py:44 点击下一步
+INFO     logger:6noble.py:46 点击开始测评按钮

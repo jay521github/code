@@ -1,0 +1,2 @@
+INFO     logger:6noble.py:43 已经关闭了设置新密码的弹窗
+INFO     logger:6noble.py:44 点击量表

@@ -1,0 +1,3 @@
+INFO     logger:oms.py:28 ----------------------------------------本次自动化测试开始执行-------------------------------------------
+INFO     logger:oms.py:31 后台的网址为：http://static.6noble.net/oms/#/login
+INFO     logger:oms.py:38 登录成功

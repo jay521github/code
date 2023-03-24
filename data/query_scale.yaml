@@ -1,0 +1,6 @@
+-
+  path: /api/6nobleapi/qnr/evaluationScale/getUserEvaluationFormByIds
+  url: https://hapi.6noblexc.com
+  title: 查询用户量表信息
+  data:
+      publicKey: pvj9bTwwaY4YdPiwRBH5RE25o9ZM8BHG

@@ -1,0 +1,4 @@
+2023-01-18 11:54:18.637 | INFO     | KeyWords.Api_Keys:post:16 - 发送请求的地址为：https://hapi.6noblexc.com/api/6nobleapi/qnr/evaluationQuestion/getEvaluationQuestionsRequestVo,发送的数据为：{'formId': ['FORM117402822357549465723390', 'FORM117403940732220620895022'], 'token': '08333ae810d4479382a2d64ab3d8ba98', 'publicKey': 'pvj9bTwwaY4YdPiwRBH5RE25o9ZM8BHG', 'scaleId': 'SCALE1129442022420208241505'}
+[Regression_Api.py]:2023-01-18 11:54:18,863 - INFO - 本次的问题为：['Q114430012845090816043305']
+[Regression_Api.py]:2023-01-18 11:54:18,863 - INFO - 回答的答案为：['Q114430012845090816043305_E']
+2023-01-18 11:54:18.878 | INFO     | KeyWords.Api_Keys:json_path:26 - 成功提取的数据为：0

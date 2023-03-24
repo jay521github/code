@@ -1,0 +1,3 @@
+INFO     logger:screenshot.py:26 ----------------------------------------本次自动化测试开始执行-------------------------------------------
+INFO     logger:screenshot.py:30 后台的网址为：https://oms.6noblexc.com/#/login
+INFO     logger:screenshot.py:37 登录成功

@@ -1,0 +1,1 @@
+{'timestamp': 1656483384203, 'status': 500, 'error': 'Internal Server Error', 'message': 'syntax error, pos 1, line 1, column 2params', 'path': '/api/6nobleapi/qnr/userEvaluationForm/getUserEvaluationFormByParams'}

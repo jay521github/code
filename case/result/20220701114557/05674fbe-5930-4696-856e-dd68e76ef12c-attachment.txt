@@ -1,0 +1,4 @@
+INFO     logger:6noble.py:23 本次参与测评的用户账号为：15120168
+INFO     logger:6noble.py:24 ----------------------------------------本次自动化测试开始执行-------------------------------------------
+INFO     logger:6noble.py:26 打开本次测评链接地址为：https://pc.6noblexc.com/#/login
+INFO     logger:6noble.py:31 登录成功

@@ -1,0 +1,27 @@
+Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="app"]/div/div[2]/div/div/div/div[1]/div/div[2]/p[1]"}
+  (Session info: chrome=103.0.5060.66)
+Stacktrace:
+Backtrace:
+	Ordinal0 [0x009BD953+2414931]
+	Ordinal0 [0x0094F5E1+1963489]
+	Ordinal0 [0x0083C6B8+837304]
+	Ordinal0 [0x00869500+1021184]
+	Ordinal0 [0x0086979B+1021851]
+	Ordinal0 [0x00896502+1205506]
+	Ordinal0 [0x008844E4+1131748]
+	Ordinal0 [0x00894812+1198098]
+	Ordinal0 [0x008842B6+1131190]
+	Ordinal0 [0x0085E860+976992]
+	Ordinal0 [0x0085F756+980822]
+	GetHandleVerifier [0x00C2CC62+2510274]
+	GetHandleVerifier [0x00C1F760+2455744]
+	GetHandleVerifier [0x00A4EABA+551962]
+	GetHandleVerifier [0x00A4D916+547446]
+	Ordinal0 [0x00955F3B+1990459]
+	Ordinal0 [0x0095A898+2009240]
+	Ordinal0 [0x0095A985+2009477]
+	Ordinal0 [0x00963AD1+2046673]
+	BaseThreadInitThunk [0x7620FA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77BB7A7E+286]
+	RtlGetAppContainerNamedObjectPath [0x77BB7A4E+238]
+

@@ -1,0 +1,5 @@
+INFO     logger:oms.py:26 ----------------------------------------本次自动化测试开始执行-------------------------------------------
+INFO     logger:oms.py:30 后台的网址为：https://oms.6noblexc.com/#/login
+INFO     logger:oms.py:37 登录成功
+INFO     logger:oms.py:26 ----------------------------------------本次自动化测试开始执行-------------------------------------------
+INFO     logger:oms.py:30 后台的网址为：https://oms.6noblexc.com/#/login

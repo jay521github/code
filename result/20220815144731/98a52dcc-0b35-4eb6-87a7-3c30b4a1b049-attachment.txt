@@ -1,0 +1,4 @@
+INFO     logger:Web_Test.py:25 本次参与测评的用户账号为：102690
+INFO     logger:Web_Test.py:26 ----------------------------------------本次自动化测试开始执行-------------------------------------------
+INFO     logger:Web_Test.py:28 本次打开的链接为：https://pc.6noblexc.com/#/login
+INFO     logger:Web_Test.py:39 登录成功

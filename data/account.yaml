@@ -1,0 +1,12 @@
+-
+#  oms_url: http://static.6noble.net/oms/#/cms
+#  url: https://pc.6noblexc.com/#/login
+#  DEV_url: http://staticdev.6noblexc.net/pc/#/login
+
+#  url: http://static.6noble.net/mobile
+  username: 17611593986
+  password: 123456
+  button: //*[@id="normal-login"]/div[3]/div/div/div/div/button/span
+  text: //*[@id="root"]/div/section/section/header/div/div[1]/span
+  title: 登录模块
+  result: //*[@id="pane-complete"]/div/div[1]/div/div[3]/div[2]/button

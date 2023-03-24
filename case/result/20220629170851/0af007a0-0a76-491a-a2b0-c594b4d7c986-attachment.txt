@@ -1,0 +1,2 @@
+INFO     logger:6noble_ApiTest.py:103 题目是：[False]
+INFO     logger:6noble_ApiTest.py:104 答案是：[False]

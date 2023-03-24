@@ -1,0 +1,9 @@
+-
+  new_dimensionality: //*[@id="root"]/div/section/section/main/div/section/main/div[2]/div[1]/div[2]/div/button/span[2]
+  check_box: td[class="ant-table-cell ant-table-selection-column"]
+  button: //*[@id="root"]/div/section/section/main/div/div[2]/div[2]/div/div[3]/button[2]/span
+  next: //*[@id="fractionModeForm"]/div[3]/div/div/div/button[2]/span
+  result: //*[@id="root"]/div/section/section/main/div/div[2]/div[4]/div/form/div[1]/div/div[2]/div/div/div/div/div/div[2]/table/tbody/tr[2]/td[4]/div/div/div/div/div[2]/div/div[2]/div/div/div/div
+  txt: 这是结果描述，测试使用
+  expected_result: //*[@id="root"]/div/section/section/main/div/section/main/div[2]/div[2]/div/div/div/div/div/div[2]/table/tbody/tr[2]/td[3]/span
+  title: 维度管理

@@ -1,0 +1,1 @@
+ERROR    logger:SCAP_ApiTest.py:46 断言失败，没有获取到登录账号

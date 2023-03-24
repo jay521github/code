@@ -1,0 +1,6 @@
+-
+  path: /api/6nobleapi/qnr/userEvaluationForm/getUserEvaluationFormByParams
+  url: https://hapi.6noblexc.com
+  title: 根据状态查询用户相关的测评量表
+  data:
+      params: '{"params": [0,2,1]}'

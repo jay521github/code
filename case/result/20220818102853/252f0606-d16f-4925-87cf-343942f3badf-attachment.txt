@@ -1,0 +1,4 @@
+INFO     logger:6noble.py:27 本次参与测评的用户账号为：he2022081608
+INFO     logger:6noble.py:28 ----------------------------------------本次自动化测试开始执行-------------------------------------------
+INFO     logger:6noble.py:30 本次打开的链接为：https://pc.6noblexc.com/#/login
+INFO     logger:6noble.py:41 登录成功

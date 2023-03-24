@@ -1,0 +1,16 @@
+2023-02-08 17:35:17.419 | INFO     | KeyWords.keyword_web:open:55 - 访问的地址：http://static.6noblexc.net/pc/#/home
+2023-02-08 17:35:17.501 | INFO     | KeyWords.keyword_web:input:80 - 正在输入的内容：zg0191
+2023-02-08 17:35:17.563 | INFO     | KeyWords.keyword_web:input:80 - 正在输入的内容：123456
+2023-02-08 17:35:17.605 | INFO     | KeyWords.keyword_web:click:85 - 正在点击：//*[@id="app"]/div/div[2]/div/div/div/div[1]/div[2]/div/div[2]/div[2]/div[1]/form/div[3]/label/span/span
+2023-02-08 17:35:17.646 | INFO     | KeyWords.keyword_web:click:85 - 正在点击：//span[text()="登录"]
+2023-02-08 17:35:19.648 | INFO     | KeyWords.keyword_web:wait:94 - 系统强制休眠2s
+2023-02-08 17:35:19.694 | INFO     | KeyWords.keyword_web:click:85 - 正在点击：//*[@id="app"]/div/div[2]/div/div[2]/div/div[2]/div/div[1]/button/i
+2023-02-08 17:35:20.707 | INFO     | KeyWords.keyword_web:wait:94 - 系统强制休眠1s
+2023-02-08 17:35:21.711 | INFO     | KeyWords.keyword_web:wait:94 - 系统强制休眠1s
+2023-02-08 17:35:23.004 | INFO     | KeyWords.keyword_web:wait:94 - 系统强制休眠1s
+2023-02-08 17:35:23.038 | INFO     | KeyWords.keyword_web:click:85 - 正在点击：//*[text()="个人中心"]
+2023-02-08 17:35:24.049 | INFO     | KeyWords.keyword_web:wait:94 - 系统强制休眠1s
+2023-02-08 17:35:24.085 | INFO     | KeyWords.keyword_web:click:85 - 正在点击：//*[text()="我的测评"]
+2023-02-08 17:35:25.090 | INFO     | KeyWords.keyword_web:wait:94 - 系统强制休眠1s
+2023-02-08 17:35:25.123 | INFO     | KeyWords.keyword_web:click:85 - 正在点击：//*[text()="已测评"]
+2023-02-08 17:35:27.129 | INFO     | KeyWords.keyword_web:wait:94 - 系统强制休眠2s

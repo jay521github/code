@@ -1,0 +1,13 @@
+-
+  new_classify: //*[@id="root"]/div/section/section/main/div/section/main/div[2]/div[1]/div[2]/div/button/span[2]
+  factor_name: 因子测试No.${random.int(9999)}
+  check_box: td[class="ant-table-cell ant-table-selection-column"]
+  next: /html/body/div[1]/div/section/section/main/div/div[2]/div[3]/div/form/div[2]/div/div/div/button[2]/span
+  result: //*[@id="root"]/div/section/section/main/div/div[2]/div[4]/div/form/div[1]/div/div[2]/div/div/div/div/div/div[2]/table/tbody/tr[2]/td[4]/div/div/div/div/div[2]/div/div[2]/div/div
+  txt: 这是结果描述，测试使用
+  expected_result: /html/body/div[1]/div/section/section/main/div/section/main/div[2]/div[2]/div/div/div/div/div/div[2]/table/tbody/tr[2]/td[5]/span
+  upload1: /html/body/div[1]/div/section/section/main/div/section/main/div/div/form/div[1]/div/div[4]/div/div[2]/div/div/span/div/span/div/div
+  upload2: /html/body/div[1]/div/section/section/main/div/div[2]/div[1]/div/div/form/div[1]/div[6]/div/div[2]/div[1]/div/span/div/div/span/div/div
+  scale_scoring: //*[@id="advanced_search"]/div[1]/div/div[1]/div/div[2]/div
+  button: //*[@id="root"]/div/section/section/main/div/div[2]/div[2]/div/div[3]/button[2]/span
+  title: 分类管理

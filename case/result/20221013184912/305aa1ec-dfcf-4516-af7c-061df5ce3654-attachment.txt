@@ -1,0 +1,2 @@
+INFO     logger:SCAP_ApiTest.py:111 本次的问题为：['Q1104839775040311296127291']
+INFO     logger:SCAP_ApiTest.py:112 回答的答案为：['Q1104839775040311296127291_E']

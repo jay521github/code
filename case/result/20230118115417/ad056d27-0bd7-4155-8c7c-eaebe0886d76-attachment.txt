@@ -1,0 +1,2 @@
+2023-01-18 11:54:18.271 | INFO     | KeyWords.Api_Keys:post:16 - 发送请求的地址为：https://hapi.6noblexc.com/api/6nobleapi/qnr/userEvaluationForm/getUserEvaluationFormByParams,发送的数据为：{'params': '{"params": [0,2,1]}', 'token': '08333ae810d4479382a2d64ab3d8ba98', 'publicKey': 'pvj9bTwwaY4YdPiwRBH5RE25o9ZM8BHG'}
+2023-01-18 11:54:18.451 | INFO     | KeyWords.Api_Keys:json_path:26 - 成功提取的数据为：0

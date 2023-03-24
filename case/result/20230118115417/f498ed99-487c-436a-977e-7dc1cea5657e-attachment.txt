@@ -1,0 +1,2 @@
+INFO     logger:Regression_Api.py:112 本次的问题为：['Q114430012845090816043305']
+INFO     logger:Regression_Api.py:113 回答的答案为：['Q114430012845090816043305_E']

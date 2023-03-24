@@ -1,0 +1,6 @@
+-
+  path: /api/6nobleapi/ucenter/getUserBaseByToken
+  url: https://hapi.6noblexc.com
+  title: 获取用户基本信息
+  data:
+

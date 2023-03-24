@@ -1,0 +1,5 @@
+INFO     logger:Web_Test.py:52 已经关闭了设置新密码的弹窗
+INFO     logger:Web_Test.py:53 点击量表
+INFO     logger:Web_Test.py:74 点击开始答题
+INFO     logger:Web_Test.py:78 点击下一步
+INFO     logger:Web_Test.py:81 点击开始测评按钮

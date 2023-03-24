@@ -1,0 +1,12 @@
+-
+  content_management: //*[@id="root"]/div/section/aside/div/ul/li[5]/div/span[2]
+  content_list: //a[text()="内容列表"]
+  newly_content: //span[text()="新增内容"]
+  upload1: //*[@id="root"]/div/section/section/main/div/div[2]/form/div[6]/div[1]/div[2]/div[1]/div/span/div/div/span/div/div
+  upload2: //*[@id="root"]/div/section/section/main/div/div[2]/form/div[6]/div[2]/div/div[2]/div[1]/div/span/div/div/span/div/div
+  text: //*[@id="root"]/div/section/section/header/div/div[1]/span
+  expected_result: //*[@id="root"]/div/section/section/main/div/section/main/div[2]/div[2]/div/div/div/div/div/div[2]/table/tbody/tr[2]/td[2]/span
+  title: 内容管理
+  input_text: //*[@id="root"]/div/section/section/main/div/div[2]/form/div[6]/div/div[2]/div/div/div/div/div[2]/div/div[2]/div
+  button: //*[@id="root"]/div/section/section/main/div/div[2]/form/div[8]/div/div/div/div/button
+  attach_path: //*[@id="root"]/div/section/section/main/div/div[2]/form/div[9]/div/div[2]/div[1]/div/span/div[1]/span/button

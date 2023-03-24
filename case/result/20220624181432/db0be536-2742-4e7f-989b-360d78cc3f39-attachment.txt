@@ -1,0 +1,1 @@
+INFO     logger:test.py:36 已经关闭了设置新密码的弹窗

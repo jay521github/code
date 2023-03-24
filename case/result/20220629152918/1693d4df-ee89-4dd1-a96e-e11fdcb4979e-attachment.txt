@@ -1,0 +1,2 @@
+<class 'str'>
+{'timestamp': 1656487759267, 'status': 500, 'error': 'Internal Server Error', 'message': 'syntax error, pos 15, line 1, column 16{"params":[Test_ApiCase.scaleId]}', 'path': '/api/6nobleapi/qnr/evaluationScale/getUserEvaluationFormByIds'}

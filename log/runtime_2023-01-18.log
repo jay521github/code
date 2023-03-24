@@ -1,0 +1,74 @@
+2023-01-18 11:02:37.850 | DEBUG    | __main__:<module>:96 - 调试代码
+2023-01-18 11:02:37.851 | INFO     | __main__:<module>:97 - 输出信息
+2023-01-18 11:02:37.851 | SUCCESS  | __main__:<module>:98 - 输出成功
+2023-01-18 11:02:37.852 | WARNING  | __main__:<module>:99 - 错误警告
+2023-01-18 11:02:37.852 | ERROR    | __main__:<module>:100 - 代码错误
+2023-01-18 11:02:37.852 | CRITICAL | __main__:<module>:101 - 崩溃输出
+2023-01-18 11:02:37.852 | INFO     | __main__:<module>:109 - ----原始测试----
+2023-01-18 11:04:33.107 | INFO     | __main__:<module>:11 - test
+2023-01-18 11:12:40.625 | INFO     | KeyWords.keyword_web:open:55 - 访问的地址：https://pc.6noblexc.com/#/login
+2023-01-18 11:12:40.691 | INFO     | KeyWords.keyword_web:input:80 - 正在输入的内容：zg0157
+2023-01-18 11:12:40.795 | INFO     | KeyWords.keyword_web:input:80 - 正在输入的内容：123456
+2023-01-18 11:12:40.843 | INFO     | KeyWords.keyword_web:click:85 - 正在点击：//*[@id="app"]/div/div[2]/div/div/div/div[1]/div[2]/div/div[2]/div[2]/div[1]/form/div[3]/label/span/span
+2023-01-18 11:12:40.884 | INFO     | KeyWords.keyword_web:click:85 - 正在点击：//span[text()="登录"]
+2023-01-18 11:12:42.892 | INFO     | KeyWords.keyword_web:wait:94 - 系统强制休眠2s
+2023-01-18 11:14:20.674 | INFO     | KeyWords.keyword_web:open:55 - 访问的地址：http://static.6noblexc.net/pc/#/home
+2023-01-18 11:14:20.731 | INFO     | KeyWords.keyword_web:input:80 - 正在输入的内容：zg0033
+2023-01-18 11:14:20.782 | INFO     | KeyWords.keyword_web:input:80 - 正在输入的内容：123456
+2023-01-18 11:14:20.815 | INFO     | KeyWords.keyword_web:click:85 - 正在点击：//*[@id="app"]/div/div[2]/div/div/div/div[1]/div[2]/div/div[2]/div[2]/div[1]/form/div[3]/label/span/span
+2023-01-18 11:14:20.850 | INFO     | KeyWords.keyword_web:click:85 - 正在点击：//span[text()="登录"]
+2023-01-18 11:14:22.858 | INFO     | KeyWords.keyword_web:wait:94 - 系统强制休眠2s
+2023-01-18 11:14:22.907 | INFO     | KeyWords.keyword_web:click:85 - 正在点击：//*[@id="app"]/div/div[2]/div/div[2]/div/div[2]/div/div[1]/button/i
+2023-01-18 11:14:23.919 | INFO     | KeyWords.keyword_web:wait:94 - 系统强制休眠1s
+2023-01-18 11:14:24.923 | INFO     | KeyWords.keyword_web:wait:94 - 系统强制休眠1s
+2023-01-18 11:14:26.216 | INFO     | KeyWords.keyword_web:wait:94 - 系统强制休眠1s
+2023-01-18 11:14:26.249 | INFO     | KeyWords.keyword_web:click:85 - 正在点击：//*[text()="个人中心"]
+2023-01-18 11:14:27.260 | INFO     | KeyWords.keyword_web:wait:94 - 系统强制休眠1s
+2023-01-18 11:14:27.302 | INFO     | KeyWords.keyword_web:click:85 - 正在点击：//*[text()="我的测评"]
+2023-01-18 11:14:28.306 | INFO     | KeyWords.keyword_web:wait:94 - 系统强制休眠1s
+2023-01-18 11:14:28.347 | INFO     | KeyWords.keyword_web:click:85 - 正在点击：//*[text()="已测评"]
+2023-01-18 11:14:30.362 | INFO     | KeyWords.keyword_web:wait:94 - 系统强制休眠2s
+2023-01-18 11:54:17.796 | INFO     | KeyWords.Api_Keys:post:16 - 发送请求的地址为：https://hapi.6noblexc.com/api/6nobleapi/ucenter/login,发送的数据为：{'account': 'zdhcd000', 'password': 'e10adc3949ba59abbe56e057f20f883e', 'publicKey': 'pvj9bTwwaY4YdPiwRBH5RE25o9ZM8BHG'}
+2023-01-18 11:54:18.063 | INFO     | KeyWords.Api_Keys:json_path:26 - 成功提取的数据为：08333ae810d4479382a2d64ab3d8ba98
+2023-01-18 11:54:18.065 | INFO     | KeyWords.Api_Keys:get:10 - 发送请求的地址为：https://hapi.6noblexc.com/api/6nobleapi/ucenter/getUserBaseByToken,发送的数据为：{'token': '08333ae810d4479382a2d64ab3d8ba98', 'publicKey': 'pvj9bTwwaY4YdPiwRBH5RE25o9ZM8BHG'}
+2023-01-18 11:54:18.268 | INFO     | KeyWords.Api_Keys:json_path:26 - 成功提取的数据为：zdhcd000
+2023-01-18 11:54:18.271 | INFO     | KeyWords.Api_Keys:post:16 - 发送请求的地址为：https://hapi.6noblexc.com/api/6nobleapi/qnr/userEvaluationForm/getUserEvaluationFormByParams,发送的数据为：{'params': '{"params": [0,2,1]}', 'token': '08333ae810d4479382a2d64ab3d8ba98', 'publicKey': 'pvj9bTwwaY4YdPiwRBH5RE25o9ZM8BHG'}
+2023-01-18 11:54:18.451 | INFO     | KeyWords.Api_Keys:json_path:26 - 成功提取的数据为：0
+2023-01-18 11:54:18.455 | INFO     | KeyWords.Api_Keys:post:16 - 发送请求的地址为：https://hapi.6noblexc.com/api/6nobleapi/qnr/userEvaluationForm/getEvaluationFormByUserAndScale,发送的数据为：{'formId': ['FORM117402822357549465723390', 'FORM117403940732220620895022'], 'token': '08333ae810d4479382a2d64ab3d8ba98', 'publicKey': 'pvj9bTwwaY4YdPiwRBH5RE25o9ZM8BHG', 'params': '{"params": ["SCALE1129442022420208241505"]}'}
+2023-01-18 11:54:18.634 | INFO     | KeyWords.Api_Keys:json_path:26 - 成功提取的数据为：0
+2023-01-18 11:54:18.637 | INFO     | KeyWords.Api_Keys:post:16 - 发送请求的地址为：https://hapi.6noblexc.com/api/6nobleapi/qnr/evaluationQuestion/getEvaluationQuestionsRequestVo,发送的数据为：{'formId': ['FORM117402822357549465723390', 'FORM117403940732220620895022'], 'token': '08333ae810d4479382a2d64ab3d8ba98', 'publicKey': 'pvj9bTwwaY4YdPiwRBH5RE25o9ZM8BHG', 'scaleId': 'SCALE1129442022420208241505'}
+2023-01-18 11:54:18.878 | INFO     | KeyWords.Api_Keys:json_path:26 - 成功提取的数据为：0
+2023-01-18 11:54:18.886 | INFO     | KeyWords.Api_Keys:post:16 - 发送请求的地址为：https://hapi.6noblexc.com/api/6nobleapi/qnr/userEvaluationForm/getUserFormReport,发送的数据为：{'token': '08333ae810d4479382a2d64ab3d8ba98', 'publicKey': 'pvj9bTwwaY4YdPiwRBH5RE25o9ZM8BHG', 'formId': 'FORM117403940732220620895022'}
+2023-01-18 11:54:19.243 | INFO     | KeyWords.Api_Keys:json_path:26 - 成功提取的数据为：0
+2023-01-18 11:54:19.246 | INFO     | KeyWords.Api_Keys:post:16 - 发送请求的地址为：https://hapi.6noblexc.com/api/6nobleapi/qnr/evaluationScale/getRandomScale,发送的数据为：{'token': '08333ae810d4479382a2d64ab3d8ba98', 'publicKey': 'pvj9bTwwaY4YdPiwRBH5RE25o9ZM8BHG'}
+2023-01-18 11:54:19.418 | INFO     | KeyWords.Api_Keys:json_path:26 - 成功提取的数据为：0
+2023-01-18 11:54:19.421 | INFO     | KeyWords.Api_Keys:post:16 - 发送请求的地址为：https://hapi.6noblexc.com/api/6nobleapi/buz/instantGrab/getlist,发送的数据为：{'token': '08333ae810d4479382a2d64ab3d8ba98', 'publicKey': 'pvj9bTwwaY4YdPiwRBH5RE25o9ZM8BHG'}
+2023-01-18 11:54:19.592 | INFO     | KeyWords.Api_Keys:json_path:26 - 成功提取的数据为：0
+2023-01-18 11:54:19.596 | INFO     | KeyWords.Api_Keys:post:16 - 发送请求的地址为：https://hapi.6noblexc.com/api/6nobleapi/content/findContents,发送的数据为：{'token': '08333ae810d4479382a2d64ab3d8ba98', 'publicKey': 'pvj9bTwwaY4YdPiwRBH5RE25o9ZM8BHG', 'rangePage': 'topic_classes', 'rangeColumn': 113696311900058828828152, 'isAdmin': 0, 'rangeColumnSecond': None}
+2023-01-18 11:54:19.821 | INFO     | KeyWords.Api_Keys:json_path:26 - 成功提取的数据为：0
+2023-01-18 11:54:19.825 | INFO     | KeyWords.Api_Keys:post:16 - 发送请求的地址为：https://hapi.6noblexc.com/api/6nobleapi/content/findContents,发送的数据为：{'token': '08333ae810d4479382a2d64ab3d8ba98', 'publicKey': 'pvj9bTwwaY4YdPiwRBH5RE25o9ZM8BHG', 'rangePage': 'topic_classes', 'rangeColumn': 113671913460885504006733, 'isAdmin': 0, 'rangeColumnSecond': None}
+2023-01-18 11:54:20.037 | INFO     | KeyWords.Api_Keys:json_path:26 - 成功提取的数据为：0
+2023-01-18 11:54:20.042 | INFO     | KeyWords.Api_Keys:post:16 - 发送请求的地址为：https://hapi.6noblexc.com/api/6nobleapi/content/findContents,发送的数据为：{'token': '08333ae810d4479382a2d64ab3d8ba98', 'publicKey': 'pvj9bTwwaY4YdPiwRBH5RE25o9ZM8BHG', 'rangePage': 'topic_classes', 'rangeColumn': '5f0a6538a9780b9f43d9fc223278e199', 'isAdmin': 0, 'rangeColumnSecond': None}
+2023-01-18 11:54:20.260 | INFO     | KeyWords.Api_Keys:json_path:26 - 成功提取的数据为：0
+2023-01-18 11:55:04.488 | INFO     | KeyWords.Api_Keys:post:16 - 发送请求的地址为：https://hapi.6noblexc.com/api/6nobleapi/ucenter/login,发送的数据为：{'account': 'zdhcd000', 'password': 'e10adc3949ba59abbe56e057f20f883e', 'publicKey': 'pvj9bTwwaY4YdPiwRBH5RE25o9ZM8BHG'}
+2023-01-18 11:55:04.683 | INFO     | KeyWords.Api_Keys:json_path:26 - 成功提取的数据为：7d30d9e708544702b6e2e0b0780335f3
+2023-01-18 11:55:04.684 | INFO     | KeyWords.Api_Keys:get:10 - 发送请求的地址为：https://hapi.6noblexc.com/api/6nobleapi/ucenter/getUserBaseByToken,发送的数据为：{'token': '7d30d9e708544702b6e2e0b0780335f3', 'publicKey': 'pvj9bTwwaY4YdPiwRBH5RE25o9ZM8BHG'}
+2023-01-18 11:55:04.850 | INFO     | KeyWords.Api_Keys:json_path:26 - 成功提取的数据为：zdhcd000
+2023-01-18 11:55:04.851 | INFO     | KeyWords.Api_Keys:post:16 - 发送请求的地址为：https://hapi.6noblexc.com/api/6nobleapi/qnr/userEvaluationForm/getUserEvaluationFormByParams,发送的数据为：{'params': '{"params": [0,2,1]}', 'token': '7d30d9e708544702b6e2e0b0780335f3', 'publicKey': 'pvj9bTwwaY4YdPiwRBH5RE25o9ZM8BHG'}
+2023-01-18 11:55:05.051 | INFO     | KeyWords.Api_Keys:json_path:26 - 成功提取的数据为：0
+2023-01-18 11:55:05.054 | INFO     | KeyWords.Api_Keys:post:16 - 发送请求的地址为：https://hapi.6noblexc.com/api/6nobleapi/qnr/userEvaluationForm/getEvaluationFormByUserAndScale,发送的数据为：{'formId': ['FORM117402822357549465723390', 'FORM117403940732220620895022'], 'token': '7d30d9e708544702b6e2e0b0780335f3', 'publicKey': 'pvj9bTwwaY4YdPiwRBH5RE25o9ZM8BHG', 'params': '{"params": ["SCALE1129442022420208241505"]}'}
+2023-01-18 11:55:05.298 | INFO     | KeyWords.Api_Keys:json_path:26 - 成功提取的数据为：0
+2023-01-18 11:55:05.300 | INFO     | KeyWords.Api_Keys:post:16 - 发送请求的地址为：https://hapi.6noblexc.com/api/6nobleapi/qnr/evaluationQuestion/getEvaluationQuestionsRequestVo,发送的数据为：{'formId': ['FORM117402822357549465723390', 'FORM117403940732220620895022'], 'token': '7d30d9e708544702b6e2e0b0780335f3', 'publicKey': 'pvj9bTwwaY4YdPiwRBH5RE25o9ZM8BHG', 'scaleId': 'SCALE1129442022420208241505'}
+2023-01-18 11:55:05.647 | INFO     | KeyWords.Api_Keys:json_path:26 - 成功提取的数据为：0
+2023-01-18 11:55:05.650 | INFO     | KeyWords.Api_Keys:post:16 - 发送请求的地址为：https://hapi.6noblexc.com/api/6nobleapi/qnr/userEvaluationForm/getUserFormReport,发送的数据为：{'token': '7d30d9e708544702b6e2e0b0780335f3', 'publicKey': 'pvj9bTwwaY4YdPiwRBH5RE25o9ZM8BHG', 'formId': 'FORM117403940732220620895022'}
+2023-01-18 11:55:05.975 | INFO     | KeyWords.Api_Keys:json_path:26 - 成功提取的数据为：0
+2023-01-18 11:55:05.977 | INFO     | KeyWords.Api_Keys:post:16 - 发送请求的地址为：https://hapi.6noblexc.com/api/6nobleapi/qnr/evaluationScale/getRandomScale,发送的数据为：{'token': '7d30d9e708544702b6e2e0b0780335f3', 'publicKey': 'pvj9bTwwaY4YdPiwRBH5RE25o9ZM8BHG'}
+2023-01-18 11:55:06.227 | INFO     | KeyWords.Api_Keys:json_path:26 - 成功提取的数据为：0
+2023-01-18 11:55:06.228 | INFO     | KeyWords.Api_Keys:post:16 - 发送请求的地址为：https://hapi.6noblexc.com/api/6nobleapi/buz/instantGrab/getlist,发送的数据为：{'token': '7d30d9e708544702b6e2e0b0780335f3', 'publicKey': 'pvj9bTwwaY4YdPiwRBH5RE25o9ZM8BHG'}
+2023-01-18 11:55:06.407 | INFO     | KeyWords.Api_Keys:json_path:26 - 成功提取的数据为：0
+2023-01-18 11:55:06.409 | INFO     | KeyWords.Api_Keys:post:16 - 发送请求的地址为：https://hapi.6noblexc.com/api/6nobleapi/content/findContents,发送的数据为：{'token': '7d30d9e708544702b6e2e0b0780335f3', 'publicKey': 'pvj9bTwwaY4YdPiwRBH5RE25o9ZM8BHG', 'rangePage': 'topic_classes', 'rangeColumn': 113696311900058828828152, 'isAdmin': 0, 'rangeColumnSecond': None}
+2023-01-18 11:55:06.650 | INFO     | KeyWords.Api_Keys:json_path:26 - 成功提取的数据为：0
+2023-01-18 11:55:06.652 | INFO     | KeyWords.Api_Keys:post:16 - 发送请求的地址为：https://hapi.6noblexc.com/api/6nobleapi/content/findContents,发送的数据为：{'token': '7d30d9e708544702b6e2e0b0780335f3', 'publicKey': 'pvj9bTwwaY4YdPiwRBH5RE25o9ZM8BHG', 'rangePage': 'topic_classes', 'rangeColumn': 113671913460885504006733, 'isAdmin': 0, 'rangeColumnSecond': None}
+2023-01-18 11:55:06.836 | INFO     | KeyWords.Api_Keys:json_path:26 - 成功提取的数据为：0
+2023-01-18 11:55:06.838 | INFO     | KeyWords.Api_Keys:post:16 - 发送请求的地址为：https://hapi.6noblexc.com/api/6nobleapi/content/findContents,发送的数据为：{'token': '7d30d9e708544702b6e2e0b0780335f3', 'publicKey': 'pvj9bTwwaY4YdPiwRBH5RE25o9ZM8BHG', 'rangePage': 'topic_classes', 'rangeColumn': '5f0a6538a9780b9f43d9fc223278e199', 'isAdmin': 0, 'rangeColumnSecond': None}
+2023-01-18 11:55:07.022 | INFO     | KeyWords.Api_Keys:json_path:26 - 成功提取的数据为：0

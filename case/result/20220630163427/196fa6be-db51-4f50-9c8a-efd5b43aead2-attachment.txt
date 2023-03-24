@@ -1,0 +1,1 @@
+ERROR    logger:SCAP_ApiTest.py:68 断言失败，接口没有成功返回数据

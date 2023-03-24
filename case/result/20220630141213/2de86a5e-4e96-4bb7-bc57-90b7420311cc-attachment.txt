@@ -1,0 +1,2 @@
+[Big_Data_Travel_Card.py]:2022-06-30 14:12:14,167 - INFO - 本次的问题为：False
+[Big_Data_Travel_Card.py]:2022-06-30 14:12:14,167 - INFO - 回答的答案为：False
